@@ -9,15 +9,15 @@ import java.util.Scanner;
 /*
  Your expected results after the input is provided:
  
- 1. 34.50
- 2. 6
- 3. Error
- 4. Error
+ 1. 34.50			Correct
+ 2. 6				Correct
+ 3. Error			Correct
+ 4. Error			Correct
  
- 5. 500
- 6. Error
- 7. Error
- 8. 645
+ 5. 500				Incorrect. Threw an error.
+ 6. Error			Correct
+ 7. Error			Correct
+ 8. 645				Correct
   
  */
 
